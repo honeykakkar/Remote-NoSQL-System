@@ -1,1 +1,0 @@
-devenv RemoteNoSQL.sln /rebuild debug
