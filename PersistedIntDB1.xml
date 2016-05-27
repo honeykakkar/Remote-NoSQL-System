@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Persisting int-string database-->
+<KeyValuePairs>
+  <KeyValuePair>
+    <Key IntKey="1" />
+    <Value DatabaseElement="1">
+      <Name>The Beatles</Name>
+      <Description>Rockband</Description>
+      <Timestamp>10/8/2015 6:34:01 PM</Timestamp>
+      <Relations>
+        <Relation>5</Relation>
+        <Relation>2</Relation>
+      </Relations>
+      <Data>Revolver</Data>
+    </Value>
+  </KeyValuePair>
+  <KeyValuePair>
+    <Key IntKey="2" />
+    <Value DatabaseElement="2">
+      <Name>Aerosmith</Name>
+      <Description>Rockband</Description>
+      <Timestamp>10/8/2015 6:34:01 PM</Timestamp>
+      <Relations>
+        <Relation>1</Relation>
+        <Relation>2</Relation>
+      </Relations>
+      <Data>Toys in the Attic</Data>
+    </Value>
+  </KeyValuePair>
+</KeyValuePairs>
