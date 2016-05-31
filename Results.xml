@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MessageStream>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="Int-String">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Add pre-defined elements<Result>New element added</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="String-List(String)">Delete an element based on key<Parameters><Key>Key2</Key></Parameters><Result>Key: Key2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Delete an element based on key<Parameters><Key>2</Key></Parameters><Result>Key: 2 was not found in database
+</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="Int-String">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+  <QueryType DBType="String-List(String)">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data><Result>Modified the element</Result></QueryType>
+</MessageStream>
