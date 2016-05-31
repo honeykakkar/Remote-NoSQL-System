@@ -1,1 +1,0 @@
-Remote NoSQL System uses Windows Communication Foundation (WCF) to communicate between clients and a server that exposes the NoSQL database through messages that are sent by clients and enqueued by the server.

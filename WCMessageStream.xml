@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<MessageStream>
-  <QueryType DBType="Int-String" NumberofQ="30">Add pre-defined elements</QueryType>
-  <QueryType DBType="String-List(String)" NumberofQ="30">Add pre-defined elements</QueryType>
-  <QueryType DBType="String-List(String)" NumberofQ="20">Delete an element based on key<Parameters><Key>Key2</Key></Parameters></QueryType>
-  <QueryType DBType="Int-String" NumberofQ="20">Delete an element based on key<Parameters><Key>2</Key></Parameters></QueryType>
-  <QueryType DBType="Int-String" NumberofQ="25">Modify an element based on key<Parameters><Key>1</Key></Parameters><Data>Nevermind</Data></QueryType>
-  <QueryType DBType="String-List(String)" NumberofQ="25">Modify an element based on key<Parameters><Key>Key1</Key></Parameters><Data>Royals</Data></QueryType>
-</MessageStream>
